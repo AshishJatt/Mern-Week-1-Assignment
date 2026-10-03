@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Getting Started with HTML5", "category": "HTML", "content": "Learn the foundation of modern web structure." },
+  { "id": 2, "title": "Mastering Flexbox and Grid", "category": "CSS", "content": "Build responsive layouts effortlessly." },
+  { "id": 3, "title": "React State & Props Explained", "category": "React", "content": "Understand dynamic UI rendering in React." }
+]
